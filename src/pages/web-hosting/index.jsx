@@ -45,8 +45,8 @@ export default () => {
       <p className="max-w-2xl text-lg">
         Ready to get started with Termina One Web Hosting? Simply shoot us an
         email at{" "}
-        <a href="mailto:web-hosting@termina.one" className="text-yellow-400">
-          web-hosting@termina.one
+        <a href="mailto:web-hosting@t1.zue.dev" className="text-yellow-400">
+          web-hosting@t1.zue.dev
         </a>{" "}
         and we’ll get back to you within 24 hours.
       </p>

@@ -6,57 +6,57 @@ const servicesData = {
     {
       name: "DNS",
       description: "Resolves domain names to IP addresses",
-      endpoint: "https://api.termina.one/status/dns",
+      endpoint: "https://api.zue.dev/status/dns",
     },
     {
       name: "Load Balancer",
       description: "Distributes incoming traffic across multiple servers",
-      endpoint: "https://api.termina.one/status/load-balancer",
+      endpoint: "https://api.zue.dev/status/load-balancer",
     },
     {
       name: "CDN",
       description: "Serves static assets and caches content",
-      endpoint: "https://api.termina.one/status/cdn",
+      endpoint: "https://api.zue.dev/status/cdn",
     },
     {
       name: "Functions",
       description: "Runs serverless functions and APIs for dynamic content",
-      endpoint: "https://api.termina.one/status/functions",
+      endpoint: "https://api.zue.dev/status/functions",
     },
     {
       name: "MySQL Clusters",
       description: "Stores relational data such as user accounts",
-      endpoint: "https://api.termina.one/status/mysql-cluster",
+      endpoint: "https://api.zue.dev/status/mysql-cluster",
     },
     {
       name: "MongoDB Clusters",
       description: "Stores non-relational data such as logs",
-      endpoint: "https://api.termina.one/status/mongodb-cluster",
+      endpoint: "https://api.zue.dev/status/mongodb-cluster",
     },
     {
       name: "Redis Clusters",
       description: "Stores temporary data such as sessions",
-      endpoint: "https://api.termina.one/status/redis-cluster",
+      endpoint: "https://api.zue.dev/status/redis-cluster",
     },
     {
       name: "Elasticsearch Clusters",
       description: "Stores and indexes log data for search",
-      endpoint: "https://api.termina.one/status/elasticsearch-cluster",
+      endpoint: "https://api.zue.dev/status/elasticsearch-cluster",
     },
     {
       name: "Git Connector",
       description: "Allows for continuous deployment and version control",
-      endpoint: "https://api.termina.one/status/git-connector",
+      endpoint: "https://api.zue.dev/status/git-connector",
     },
     {
       name: "Job Runners",
       description: "Runs scheduled jobs and tasks such as backups and CI/CD",
-      endpoint: "https://api.termina.one/status/job-runners",
+      endpoint: "https://api.zue.dev/status/job-runners",
     },
     {
       name: "Container Registry",
       description: "Stores and serves container images for deployment",
-      endpoint: "https://api.termina.one/status/container-registry",
+      endpoint: "https://api.zue.dev/status/container-registry",
     },
   ],
   "Game Servers": [
@@ -64,33 +64,33 @@ const servicesData = {
       name: "Kubernetes Clusters",
       description:
         "Orchestrates and manages containerized game server instances",
-      endpoint: "https://api.termina.one/status/kubernetes-cluster",
+      endpoint: "https://api.zue.dev/status/kubernetes-cluster",
     },
     {
       name: "Bare Metal Servers",
       description: "Physical servers for high-performance game servers",
-      endpoint: "https://api.termina.one/status/bare-metal-servers",
+      endpoint: "https://api.zue.dev/status/bare-metal-servers",
     },
     {
       name: "Game Server API",
       description: "Provides a RESTful API for managing game servers",
-      endpoint: "https://api.termina.one/status/game-server-api",
+      endpoint: "https://api.zue.dev/status/game-server-api",
     },
     {
       name: "MySQL Clusters",
       description: "Stores relational data for games that require it",
-      endpoint: "https://api.termina.one/status/mysql-cluster",
+      endpoint: "https://api.zue.dev/status/mysql-cluster",
     },
     {
       name: "Anti-DDoS Protection",
       description: "Mitigates distributed denial-of-service attacks using AI",
-      endpoint: "https://api.termina.one/status/anti-ddos-protection",
+      endpoint: "https://api.zue.dev/status/anti-ddos-protection",
     },
     {
       name: "T1 Anti-Cheat API",
       description:
         "Prevents cheating and hacking in real-time using our custom engine",
-      endpoint: "https://api.termina.one/status/anti-cheat-api",
+      endpoint: "https://api.zue.dev/status/anti-cheat-api",
     },
   ],
 };

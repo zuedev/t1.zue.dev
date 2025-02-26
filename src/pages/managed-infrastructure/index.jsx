@@ -47,10 +47,10 @@ export default () => {
         Ready to get started with Termina One Managed Infrastructure? Simply
         shoot us an email at{" "}
         <a
-          href="mailto:managed-infrastructure@termina.one"
+          href="mailto:managed-infrastructure@t1.zue.dev"
           className="text-yellow-400"
         >
-          managed-infrastructure@termina.one
+          managed-infrastructure@t1.zue.dev
         </a>{" "}
         and we’ll get back to you within 24 hours.
       </p>
