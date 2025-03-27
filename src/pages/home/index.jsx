@@ -59,6 +59,12 @@ export default () => {
           🔍 Check the status of our services
         </NavLink>
       </div>
+      <span className="p-1 text-right text-xs opacity-50">
+        "Termina One" is made with ❤️ by{" "}
+        <a href="https://zue.dev" target="_blank">
+          zue.dev
+        </a>
+      </span>
     </div>
   );
 };
